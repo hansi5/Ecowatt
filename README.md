@@ -21,7 +21,7 @@ With EcoWatt, you can:
 
 - **Front-End**: React.js · Tailwind CSS  
 - **Back-End**: Spring Boot (Java) · REST API  
-- **AI & Data**: Python (Flask) · Pandas · Scikit-learn  
+- **AI & Data**: Python (Flask) · Pandas   
 - **Database**: PostgreSQL  
 - **Reporting**: Google Looker Studio  
 - **Testing**: Postman · JUnit
