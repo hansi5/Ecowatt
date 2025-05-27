@@ -1,10 +1,5 @@
 # EcoWatt - Smart Energy Management System
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-org/ecowatt/releases/tag/v1.0.0) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-
-
----
-
 ## Overview
 
 EcoWatt empowers residential and commercial users to master their electricity usage with real-time monitoring, data-driven forecasts, and personalized recommendations. Turn meter data into actionable insights, reduce costs, and live sustainably.
